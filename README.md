@@ -1,4 +1,9 @@
 # Network-Address-Translation.Knowledge
+# Wiki:
 https://en.wikipedia.org/wiki/Network_address_translation
 
-[NAT Explained - Network Address Translation](https://youtu.be/FTUV0t6JaDA)
+# Guide:
+- [NAT Explained - Network Address Translation](https://youtu.be/FTUV0t6JaDA)
+
+# Relation:
+- https://en.wikipedia.org/wiki/IP_header
