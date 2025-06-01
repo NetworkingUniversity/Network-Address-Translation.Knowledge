@@ -7,3 +7,5 @@ https://en.wikipedia.org/wiki/Network_address_translation
 
 # Relation:
 - https://en.wikipedia.org/wiki/IP_header
+- https://en.wikipedia.org/wiki/Application-level_gateway
+- https://en.wikipedia.org/wiki/Netfilter
