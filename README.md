@@ -1,6 +1,7 @@
 # Network-Address-Translation.Knowledge
 # Wiki:
-https://en.wikipedia.org/wiki/Network_address_translation
+- https://en.wikipedia.org/wiki/Network_address_translation
+- https://en.wikipedia.org/wiki/NAT_traversal
 
 # Guide:
 - [NAT Explained - Network Address Translation](https://youtu.be/FTUV0t6JaDA)
