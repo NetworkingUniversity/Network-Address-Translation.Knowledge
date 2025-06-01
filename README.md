@@ -10,3 +10,4 @@
 - https://en.wikipedia.org/wiki/IP_header
 - https://en.wikipedia.org/wiki/Application-level_gateway
 - https://en.wikipedia.org/wiki/Netfilter
+- https://en.wikipedia.org/wiki/UDP_hole_punching
